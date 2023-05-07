@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu&family=Varela+Round&display=swap');
 body{
-   background-color: antiquewhite; 
+   background-color: rgb(46, 46, 46); 
 }
 *{
     margin: 0;
@@ -105,5 +105,5 @@ border-radius: 34px;
 }
 .songInfo img{
     opacity: 0;
-    transition: opacity 1s ease-in;
+    transition: opacity 0.4s ease-in;
 }
